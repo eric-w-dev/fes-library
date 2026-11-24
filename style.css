@@ -533,7 +533,7 @@ RESPONSIVENESS PHONES
 */
 
 @media(max-width: 550px) {
-  .nav__links {
+  .nav__link {
     display: none;
   }
 
